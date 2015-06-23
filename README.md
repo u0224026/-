@@ -40,6 +40,6 @@
 
 https://watchapp.leankit.com/Boards/View/198070355#workflow-view
 
-![Bigboard](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xft1/v/t35.0-12/11348597_839013602858564_318679980_o.jpg?oh=3a24eb1fd9457d6a06f7ffc8060dab58&oe=55707B7B&__gda__=1433431561_ca6ebb351223919680418742be691b95)
+![Bigboard](https://lh5.googleusercontent.com/iq_OfkeA_Gv9HmgXMd1ENYp3wRMZEnscMzd71ycCff3DxC3B7ZaQiP6xR3lf8nNDeLrxrcSj4-5QUzo=w1656-h785-rw)
 <br>**Burndown:以任務劃分**<br>
 ![Burndown](https://lh5.googleusercontent.com/gKEHxEsubKmE4dGuzrNLCzyusjKNVUaWoHpzgaWeYBPdy8sMQoW3sQDMyn9lJxZA5nVe-W66K-3pcF4=w1656-h785)
