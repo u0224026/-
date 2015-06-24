@@ -40,6 +40,6 @@
 
 https://trello.com/b/rJhn5i2N/watchweb
 
-![Bigboard](https://lh5.googleusercontent.com/iq_OfkeA_Gv9HmgXMd1ENYp3wRMZEnscMzd71ycCff3DxC3B7ZaQiP6xR3lf8nNDeLrxrcSj4-5QUzo=w1656-h785-rw)
+![Bigboard](http://i.imgur.com/JT4YfUc.png)
 <br>**Burndown:以任務劃分**<br>
-![Burndown](https://lh5.googleusercontent.com/gKEHxEsubKmE4dGuzrNLCzyusjKNVUaWoHpzgaWeYBPdy8sMQoW3sQDMyn9lJxZA5nVe-W66K-3pcF4=w1656-h785)
+![Burndown](http://i.imgur.com/KjVvYck.png)
