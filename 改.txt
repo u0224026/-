@@ -1,0 +1,14 @@
+#body div.footer div h1 {
+	background: #dce9d4;
+	border-bottom: 2px solid #b3cca4;
+	color: #836145;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 40px;
+	font-weight: normal;
+	height: 50px;
+	line-height: 50px;
+	margin: 0;
+	padding: 0 0 0 20px;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 1px #ffffff;
+}
