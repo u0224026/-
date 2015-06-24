@@ -43,3 +43,7 @@ https://trello.com/b/rJhn5i2N/watchweb
 ![Bigboard](http://i.imgur.com/JT4YfUc.png)
 <br>**Burndown:以任務劃分**<br>
 ![Burndown](http://i.imgur.com/KjVvYck.png)
+
+**PPT**
+https://docs.google.com/presentation/d/16AqoVc-dZxWktoFsCubMT350r3nOYLWSsvxeynrbthA/edit
+
